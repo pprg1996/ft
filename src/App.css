@@ -1,0 +1,21 @@
+#appDiv {
+    display: flex;
+    width: 70rem;
+    margin: auto;
+}
+
+#sideBar {
+    background-color: aqua;
+    width: 27%;
+    min-height: 100vh;
+}
+
+#sideBarList {
+    list-style: none;
+}
+
+#content {
+    background-color: rebeccapurple;
+    width: 73%;
+    min-height: 100vh;
+}
